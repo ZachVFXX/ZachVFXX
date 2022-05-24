@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/b50b7eb7-9fd3-4c8d-a9d1-e73a7a28587e-profile_image-300x300.png">
 
 <h2> Hey there! I'm Zach.</h2>
 
